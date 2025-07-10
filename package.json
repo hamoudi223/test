@@ -1,0 +1,13 @@
+{
+  "name": "bots-deployment",
+  "version": "1.0.0",
+  "description": "Déploiement automatique de bots Levanter et Zokou",
+  "main": "deploy.js",
+  "scripts": {
+    "start": "node deploy.js"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": ">=16"
+  }
+}
